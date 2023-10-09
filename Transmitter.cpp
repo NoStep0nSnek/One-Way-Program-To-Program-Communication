@@ -3,7 +3,7 @@
 #include <string>
 #include <fstream>
 
-#define BIND_FILENAME "Program-Binding.txt"
+#define BIND_FILENAME "Binding-File.txt"
 
 using namespace std;
 
